@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MN+RED+LAKE+BAND+OF+CHIPPEWA+INDIANS+MINNES",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MN+RED+LAKE+BAND+OF+CHIPPEWA+INDIANS+MINNES",
+  "title": "Federal Register - MN RED LAKE BAND OF CHIPPEWA INDIANS MINNES",
+  "fetched_at": "2026-11-23T17:43:54.817677Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 101674,
+  "sha256": "9f43fc904e093b1aca75cf4146d164789e7074d4247b43ab0837db6ac150f196",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
